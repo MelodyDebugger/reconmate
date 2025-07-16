@@ -1,0 +1,14 @@
+# Nmap 7.94SVN scan initiated Wed Jun 25 16:52:12 2025 as: nmap -sV -T4 -oN reports/hackerone_com_nmap.txt hackerone.com
+Nmap scan report for hackerone.com (172.64.151.42)
+Host is up (0.047s latency).
+Other addresses for hackerone.com (not scanned): 104.18.36.214 2606:4700:4400::ac40:972a 2606:4700:4400::6812:24d6
+Not shown: 995 filtered tcp ports (no-response)
+PORT     STATE SERVICE  VERSION
+53/tcp   open  domain   ISC BIND 9.18.36
+80/tcp   open  http     Cloudflare http proxy
+443/tcp  open  ssl/http Cloudflare http proxy
+8080/tcp open  http     Cloudflare http proxy
+8443/tcp open  ssl/http Cloudflare http proxy
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Jun 25 16:52:53 2025 -- 1 IP address (1 host up) scanned in 40.32 seconds

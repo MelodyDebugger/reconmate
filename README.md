@@ -52,4 +52,11 @@ C. Wordlist :
 - [FFUF Results](hackerone_com_ffuf.txt)
 
 
+   ---
+
+
+👨‍💻 **Author:** Arpan Nayak  
+Cybersecurity Enthusiast | CEH Certified | BCA Graduate
+
+
 

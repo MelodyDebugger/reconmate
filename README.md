@@ -47,11 +47,9 @@ C. Wordlist :
 ```
 ### 4. Sample Output
 
-```bash
-reports/hackerone_com_nmap.txt
-reports/hackerone_com_subdomains.txt
-reports/hackerone_com_ffuf.txt
-```
+- [Nmap Scan](hackerone_com_nmap.txt)
+- [Subdomains](hackerone_com_subdomains.txt)
+- [FFUF Results](hackerone_com_ffuf.txt)
 
 
 
